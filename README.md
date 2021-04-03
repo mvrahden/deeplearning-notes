@@ -6,6 +6,8 @@ Introduction from the specialization page:
 
 >In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
 
+## Overview
+
 *The Specialization consists of five courses*:
 
 - [Course 1: Neural Networks and Deep Learning](C1-Neural-Networks-and-Deep-Learning/readme.md)
@@ -30,6 +32,14 @@ Introduction from the specialization page:
   - [Week 2: Natural Language Processing & Word Embeddings](C5-Sequence-Models/readme.md#week-2-natural-language-processing--word-embeddings)
   - [Week 3: Sequence models & Attention mechanism](C5-Sequence-Models/readme.md#week-3-sequence-models--attention-mechanism)
 
+## Further Readings
+
+- From the [Forum](https://www.coursera.org/learn/neural-networks-deep-learning/discussions/all/threads/hNQ5HTIaEem2cA7ksTEPug/replies/ZGtM-zIbEemm9A4t6LNEdA):
+  - [ML/DL Matrix Calculus](https://explained.ai/matrix-calculus/index.html)
+  - [Derivation of the Back Propagation Formulas](http://www.cs.cornell.edu/courses/cs5740/2016sp/resources/backprop.pdf)
+  - [Stanford CS231n Back Propagation Intuitive Explanation](http://cs231n.github.io/optimization-2/)
+  - [Stanford CS231n Underlying Math](http://cs231n.stanford.edu/vecDerivs.pdf)
+  - [More Matrix Calculus](https://ccrma.stanford.edu/~dattorro/matrixcalc.pdf)
 
 
 [fancy-course-summary]: https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
